@@ -64,7 +64,7 @@ G. A. Fonzo, H. J. Ramsawh, T. M. Flagan,A. N. Simmons, S. G. Sullivan, C. B. Al
 | Название признака | Описание (расшифровка) | Значение | Тип переменной |
 | :---- | :---- | :---- | :---- |
 | idno | Respondent's identification number (Номер респондента) | Число | Категориальный номинальный |
-| agea | Возраст респондента |  Value Category 999 Not available\* \*) Missing Value | Числовой дискретный |
+| agea | Возраст респондента |  Value Category   999 Not available\*   \*) Missing Value | Числовой дискретный |
 | rlgdgr | Насколько респондент религиозен | Value	Category 0	Not at all religious 1	1 2	2 3	3 4	4 5	5 6	6 7	7 8	8 9	9 10	Very religious 77	Refusal\* 88	Don't know\* 99	No answer\* \*) Missing Value | Категориальный порядковый |
 | polintr | Насколько респондент заинтересован в политике | Value	Category 1	Very interested 2	Quite interested 3	Hardly interested 4	Not at all interested 7	Refusal\* 8	Don't know\* 9	No answer\* \*) Missing Value | Категориальный порядковый |
 | sclmeet | Как часто респондент встречается с друзьями, родственниками или коллегами | Value	Category 1	Never 2	Less than once a month 3	Once a month 4	Several times a month 5	Once a week 6	Several times a week 7	Every day 77	Refusal\* 88	Don't know\* 99	No answer\* \*) Missing Value | Категориальный порядковый |
